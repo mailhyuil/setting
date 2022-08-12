@@ -1,4 +1,4 @@
-#Mon Aug 08 20:19:43 KST 2022
+#Fri Aug 12 22:25:02 KST 2022
 \!/=
 /configuration/com.genuitec.eclipse.codetogether.ui/check.profile.iu=true
 /configuration/com.genuitec.eclipse.codetogether.ui/codetogether.main.view.displayed=true
@@ -32,7 +32,7 @@
 /configuration/org.eclipse.epp.mpc.ui/showOpenFavoritesNotification=false
 /configuration/org.eclipse.ui.editors/AbstractTextEditor.Color.Background=28,31,34
 /configuration/org.eclipse.ui.ide/MAX_RECENT_WORKSPACES=10
-/configuration/org.eclipse.ui.ide/RECENT_WORKSPACES=C\:\\Users\\sangb\\Desktop\\Spring\nC\:\\Users\\sangb\\Desktop\\templates\nC\:\\Users\\sangb\\Desktop\\DesignPattern\nC\:\\Users\\sangb\\Desktop\\jpabook-master\\jpabook-master\nC\:\\Users\\sangb\\Desktop\\spring\\Spring\nC\:\\Users\\sangb\\eclipse-workspace\\Algorithm\nC\:\\Users\\sangb\\eclipse-workspace\\JDBC\nC\:/Users/sangb/eclipse-workspace/sql\nC\:\\Users\\sangb\\eclipse-workspace\\Study\nC\:/Users/sangb/eclipse-workspace/Spring
+/configuration/org.eclipse.ui.ide/RECENT_WORKSPACES=C\:\\Users\\sangb\\Desktop\\Spring
 /configuration/org.eclipse.ui.ide/RECENT_WORKSPACES_PROTOCOL=3
 /configuration/org.eclipse.ui.ide/SHOW_RECENT_WORKSPACES=true
 /configuration/org.eclipse.ui.ide/SHOW_WORKSPACE_SELECTION_DIALOG=true
@@ -1326,6 +1326,18 @@
 /instance/org.eclipse.ant.ui/overriddenByCSS=,org.eclipse.ant.ui.commentsColor,org.eclipse.ant.ui.constantStringsColor,org.eclipse.ant.ui.constantStringsColor_italic,org.eclipse.ant.ui.dtdColor,org.eclipse.ant.ui.processingInstructionsColor,org.eclipse.ant.ui.processingInstructionsColor_bold,org.eclipse.ant.ui.tagsColor,org.eclipse.ant.ui.tagsColor_bold,org.eclipse.ant.ui.textColor,org.eclipse.ant.ui.debugColor,org.eclipse.ant.ui.errorColor,org.eclipse.ant.ui.informationColor,
 /instance/org.eclipse.ant.ui/useAnnotationsPrefPage=true
 /instance/org.eclipse.ant.ui/useQuickDiffPrefPage=true
+/instance/org.eclipse.buildship.ui/executionsView.headerDurationColumnWidth=100
+/instance/org.eclipse.buildship.ui/executionsView.headerNameColumnWidth=600
+/instance/org.eclipse.buildship.ui/tasksView.flattenProjectHierarchy=false
+/instance/org.eclipse.buildship.ui/tasksView.groupTasks=true
+/instance/org.eclipse.buildship.ui/tasksView.headerDescriptionColumnWidth=400
+/instance/org.eclipse.buildship.ui/tasksView.headerNameColumnWidth=200
+/instance/org.eclipse.buildship.ui/tasksView.linkToSelection=false
+/instance/org.eclipse.buildship.ui/tasksView.privateTasksVisible=false
+/instance/org.eclipse.buildship.ui/tasksView.projectTasksVisible=false
+/instance/org.eclipse.buildship.ui/tasksView.sortByType=true
+/instance/org.eclipse.buildship.ui/tasksView.sortByVisibility=true
+/instance/org.eclipse.buildship.ui/tasksView.taskSelectorsVisible=true
 /instance/org.eclipse.cdt.dsf.ui/disassembly.addressColor=63,209,63
 /instance/org.eclipse.cdt.dsf.ui/disassembly.codeBytesColor=218,29,67
 /instance/org.eclipse.cdt.dsf.ui/disassembly.functionOffsetsColor=218,29,67
@@ -2060,7 +2072,7 @@
 /instance/org.eclipse.ui.ide/IMPORT_FILES_AND_FOLDERS_RELATIVE=true
 /instance/org.eclipse.ui.ide/IMPORT_FILES_AND_FOLDERS_TYPE=23,1
 /instance/org.eclipse.ui.ide/SWITCH_PERSPECTIVE_ON_PROJECT_CREATION=never
-/instance/org.eclipse.ui.ide/platformState=1650287654452
+/instance/org.eclipse.ui.ide/platformState=1650287654453
 /instance/org.eclipse.ui.ide/quickStart=false
 /instance/org.eclipse.ui.ide/tipsAndTricks=true
 /instance/org.eclipse.ui.navigator/org.eclipse.ui.navigator.ProjectExplorer.filterActivation=\:org.eclipse.jdt.java.ui.filters.HidePackageDeclaration\:org.eclipse.jdt.java.ui.filters.HideOutputFolder\:org.eclipse.buildship.ui.navigator.filter.gradle.subProject\:org.eclipse.ui.navigator.resources.nested.HideTopLevelProjectIfNested\:org.eclipse.buildship.ui.navigator.filter.gradle.buildfolder\:org.eclipse.jdt.java.ui.filters.HideEmptyInnerPackages\:org.eclipse.jst.j2ee.navigator.ui.filters.jetemitters\:org.eclipse.jdt.java.ui.filters.HideInnerClassFiles\:org.eclipse.ui.navigator.resources.filters.startsWithDot\:org.eclipse.jdt.java.ui.filters.HideEmptyLibraryContainers\:org.eclipse.jdt.java.ui.filters.HideImportDeclaration\:org.eclipse.jdt.java.ui.filters.HideSyntheticMembers\:org.eclipse.mylyn.tasks.ui.navigator.filters.tasks\:org.eclipse.ui.navigator.resources.nested.HideFolderWhenProjectIsShownAsNested\:
@@ -2179,7 +2191,7 @@
 /instance/org.eclipse.wst.css.ui/newFileTemplateName=New CSS File
 /instance/org.eclipse.wst.css.ui/overriddenByCSS=,ATMARK_RULE,ATTRIBUTE_DELIM,ATTRIBUTE_NAME,ATTRIBUTE_OPERATOR,ATTRIBUTE_VALUE,CLASS,COLON,COMBINATOR,COMMENT,CURLY_BRACE,ID,MEDIA,NORMAL,PROPERTY_NAME,PROPERTY_VALUE,PSEUDO,SELECTOR,SEMI_COLON,STRING,UNIVERSAL,URI,
 /instance/org.eclipse.wst.html.core/outputCodeset=UTF-8
-/instance/org.eclipse.wst.html.ui/autoProposeCode=<\=\#
+/instance/org.eclipse.wst.html.ui/autoProposeCode=<\=\#\#\#\#
 /instance/org.eclipse.wst.html.ui/commentBorder=\#626262 | null | false | false | false | false
 /instance/org.eclipse.wst.html.ui/commentText=\#626262 | null | false | false | false | false
 /instance/org.eclipse.wst.html.ui/declBoder=\#A7EC21 | null | false | false | false | false
@@ -2258,7 +2270,7 @@
 /instance/org.eclipse.wst.server.ui/restart=1
 /instance/org.eclipse.wst.sse.ui/content_assist_completion_replacement_background=200,200,0
 /instance/org.eclipse.wst.sse.ui/content_assist_completion_replacement_foreground=200,0,0
-/instance/org.eclipse.wst.sse.ui/content_assist_number_of_computers=26
+/instance/org.eclipse.wst.sse.ui/content_assist_number_of_computers=27
 /instance/org.eclipse.wst.sse.ui/content_assist_parameters_background=52,57,61
 /instance/org.eclipse.wst.sse.ui/content_assist_parameters_foreground=238,238,238
 /instance/org.eclipse.wst.sse.ui/content_assist_proposals_background=52,57,61
@@ -2550,6 +2562,8 @@
 /instance/org.sourceforge.jsonedit-core/colorValue=190,214,255
 /instance/org.sourceforge.jsonedit-core/overriddenByCSS=,colorNull,colorDefault,colorValue,colorString,
 /instance/org.springframework.ide.eclipse.boot.dash/toggle-filters\:enableRegexFilter=false
+/instance/org.springframework.ide.eclipse.boot.dash\:Cloud\ Foundry/runTargets-v2=
+/instance/org.springframework.ide.eclipse.boot.dash\:Docker/runTargets-v2=
 /instance/org.springframework.ide.eclipse.boot.launch/cglib.breakpoint.warning.disabled=true
 /instance/org.springframework.ide.eclipse.boot/org.springframework.ide.eclipse.boot.wizard.PopularityTracker.data-jpa=1
 /instance/org.springframework.ide.eclipse.boot/org.springframework.ide.eclipse.boot.wizard.PopularityTracker.jdbc=1
@@ -2597,6 +2611,7 @@
 /instance/org.springframework.ide.eclipse.config.ui//com.springsource.config.ui.prefs.activePageIndex\:/SpMVC_040_SecurityV2/src/main/webapp/WEB-INF/spring/root-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
 /instance/org.springframework.ide.eclipse.config.ui//com.springsource.config.ui.prefs.activePageIndex\:/SpMVC_040_SecurityV2/src/main/webapp/WEB-INF/spring/security-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
 /instance/org.springframework.ide.eclipse.config.ui//com.springsource.config.ui.prefs.activePageIndex\:/SpMVC_050_todoList/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+/instance/org.springframework.ide.eclipse.config.ui//com.springsource.config.ui.prefs.activePageIndex\:/SpMVC_2022_250_TodoListV5/src/main/webapp/WEB-INF/spring/mybatis-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
 /instance/org.springframework.ide.eclipse.config.ui//com.springsource.config.ui.prefs.activePageIndex\:/Spring-Security/src/main/webapp/WEB-INF/spring/appServlet/mybatis-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
 /instance/org.springframework.ide.eclipse.config.ui//com.springsource.config.ui.prefs.activePageIndex\:/Spring-Security/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
 /instance/org.springframework.ide.eclipse.config.ui//com.springsource.config.ui.prefs.activePageIndex\:/Spring-Security/src/main/webapp/WEB-INF/spring/appServlet/servlet-security.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
@@ -2661,6 +2676,7 @@
 @org.dadacoalition.yedit=1.0.18.201602092025-RELEASE-SIGNED
 @org.eclipse.ajdt.ui=2.2.4.202103162301
 @org.eclipse.ant.ui=3.8.200.v20220214-2001
+@org.eclipse.buildship.ui=3.1.5.v20210113-0929
 @org.eclipse.core.resources=3.17.0.v20220517-0751
 @org.eclipse.core.runtime=3.25.0.v20220506-1157
 @org.eclipse.debug.core=3.19.100.v20220324-0630
